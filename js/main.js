@@ -36,5 +36,7 @@ const students = [
     return arrRes;
   }
 
+  // перша функція
+
 
 
